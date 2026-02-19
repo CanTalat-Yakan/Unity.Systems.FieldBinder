@@ -1,17 +1,17 @@
 {
   "name": "com.unityessentials.systems.fieldbinder",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Systems FieldBinder",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unityessentials.editor.attributes.info": "2.0.0",
-    "com.unityessentials.editor.attributes.onvaluechanged": "2.0.0",
-    "com.unityessentials.editor.drawer.enum": "2.0.0",
-    "com.unityessentials.editor.drawer.windowbuilder": "2.0.0",
-    "com.unityessentials.editor.fetcher.mouseinput": "2.0.0",
-    "com.unityessentials.editor.hooks.inspector": "2.0.0"
+    "com.unityessentials.editor.attributes.info": "~2.0.0",
+    "com.unityessentials.editor.attributes.onvaluechanged": "~2.0.0",
+    "com.unityessentials.editor.drawer.enum": "~2.0.0",
+    "com.unityessentials.editor.drawer.windowbuilder": "~2.0.0",
+    "com.unityessentials.editor.fetcher.mouseinput": "~2.0.0",
+    "com.unityessentials.editor.hooks.inspector": "~2.0.0"
   },
   "keywords": [],
   "author": {
